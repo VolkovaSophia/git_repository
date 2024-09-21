@@ -1,14 +1,5 @@
 this is supposed to be C1
 now this is going to be c2
-
-<<<<<<< HEAD
-rebasing c4 (and c5?) onto I don't even know what
-
-this seems to be working. i hope this ends up where it needs to be.
-=======
-this is c3
-
 this should be c4
 this is going to be c5
-
-I wonder how this is going to be merged...
+no conflicts this time for real!
